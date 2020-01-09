@@ -1,0 +1,7 @@
+export(ICeDT)
+export(simFunc)
+export(refEstimate)
+
+import(alabama)
+import(stats)
+importFrom(gtools, "rdirichlet")
